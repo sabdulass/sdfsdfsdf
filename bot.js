@@ -1,12 +1,12 @@
-﻿const Discord = require('discord.js');
+﻿ const Discord = require('discord.js');
 const client = new Discord.Client();
 console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("550377128089354255")
+let channel =     client.channels.get("550992032793886740")
 setInterval(function() {
-channel.send(`اكس اكس اكس سيفو`);
+channel.send(`★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★★ OBX ★`);
 }, 30)
 })
 
